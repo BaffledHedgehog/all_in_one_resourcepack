@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/red_mushroom_block_inventory",
-	"overrides": [
-		{ "predicate": { "custom_model_data": 520 }, "model": "minecraft:block/lucky_block"}
-	]
-}

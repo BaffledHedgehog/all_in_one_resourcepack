@@ -134,6 +134,15 @@
             "chars":[
                 "\uE167"             
             ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:font/icons/deus.png",
+            "ascent":9,
+            "height":9,
+            "chars":[
+                "\uE168"             
+            ]
         }
     ]
 }

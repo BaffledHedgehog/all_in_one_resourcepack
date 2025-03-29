@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+      "top": "minecraft:block/omegatnt_top",
+      "bottom": "minecraft:block/omegatnt_bottom",
+      "side": "minecraft:block/omegatnt_side"
+    }
+  }

@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/mushroom_stem_inventory",
-      "overrides": [
-          { "predicate": { "custom_model_data": 521 }, "model": "minecraft:block/lucky_block_loli"}
-      ]
-  }
