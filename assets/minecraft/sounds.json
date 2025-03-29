@@ -656,5 +656,14 @@
                 "stream": false
             }
         ]
+    },
+    "lbcsounds.zap": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "lbcsounds/zap",
+                "stream": false
+            }
+        ]
     }
 }

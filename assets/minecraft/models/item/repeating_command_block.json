@@ -140,7 +140,9 @@
 { "predicate": { "custom_model_data": 693 }, "model": "minecraft:item/trinket_9"},
 { "predicate": { "custom_model_data": 694 }, "model": "minecraft:item/expansion"},
 { "predicate": { "custom_model_data": 695 }, "model": "minecraft:item/trinket_10"},
-{ "predicate": { "custom_model_data": 696 }, "model": "minecraft:item/trinket_11"}
+{ "predicate": { "custom_model_data": 696 }, "model": "minecraft:item/trinket_11"},
+{ "predicate": { "custom_model_data": 697 }, "model": "minecraft:item/lightning_bolt_linear"},
+{ "predicate": { "custom_model_data": 698 }, "model": "minecraft:item/spirit_shadow_projectile"}
 
 
 	]

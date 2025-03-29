@@ -224,20 +224,22 @@
 { "predicate": { "custom_model_data": 778 }, "model": "minecraft:item/blazefire_sword"},
 { "predicate": { "custom_model_data": 779 }, "model": "minecraft:item/zeus"},
 
-{ "predicate": { "custom_model_data": 779 }, "model": "minecraft:item/spirit_fire"},
+
 { "predicate": { "custom_model_data": 780 }, "model": "minecraft:item/spirit_water"},
 { "predicate": { "custom_model_data": 781 }, "model": "minecraft:item/spirit_nature"},
 { "predicate": { "custom_model_data": 782 }, "model": "minecraft:item/spirit_air"},
 { "predicate": { "custom_model_data": 783 }, "model": "minecraft:item/spirit_light"},
 { "predicate": { "custom_model_data": 784 }, "model": "minecraft:item/spirit_shadow"},
+{ "predicate": { "custom_model_data": 785 }, "model": "minecraft:item/spirit_fire"},
 
-{ "predicate": { "custom_model_data": 785 }, "model": "minecraft:item/wisp_book/fire"},
+
 { "predicate": { "custom_model_data": 786 }, "model": "minecraft:item/wisp_book/water"},
 { "predicate": { "custom_model_data": 787 }, "model": "minecraft:item/wisp_book/nature"},
 { "predicate": { "custom_model_data": 788 }, "model": "minecraft:item/wisp_book/air"},
 { "predicate": { "custom_model_data": 789 }, "model": "minecraft:item/wisp_book/light"},
 { "predicate": { "custom_model_data": 790 }, "model": "minecraft:item/wisp_book/shadow"},
-{ "predicate": { "custom_model_data": 791 }, "model": "minecraft:item/wisp_book/default"},
+{ "predicate": { "custom_model_data": 791 }, "model": "minecraft:item/wisp_book/fire"},
+{ "predicate": { "custom_model_data": 792 }, "model": "minecraft:item/wisp_book/default"},
 
 
 { "predicate": { "custom_model_data": 1488 }, "model": "minecraft:item/zaika"}
